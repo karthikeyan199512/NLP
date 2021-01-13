@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-## Repository containing portfolio of NLP projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+Repository containing portfolio of NLP projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 ## 2-way polarity (positive, negative) classification system for reviews, using NLTK's sentiment analysis engine.
 Tools : NLTK, scikit-learn
