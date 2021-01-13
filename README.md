@@ -6,7 +6,7 @@ Repository containing portfolio of NLP projects completed by me for academic, se
 Tools : NLTK, scikit-learn
 
 ## Overview
-We'll use a logistic regression, naive bayes and SVM classifier, bag-of-words features, and polarity lexicons (both in-built and external). We'll also create our own UDF to clean raw text present in the form of reviews.
+Used a logistic regression, naive bayes and SVM classifier, bag-of-words features, and polarity lexicons (both in-built and external). We'll also create our own UDF to clean raw text present in the form of reviews.
 
 ## Brief description of the dataset
 #### Dataset is scrapped from amazon for lenovo K8 mobile phones
