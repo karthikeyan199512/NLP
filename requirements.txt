@@ -19,3 +19,4 @@ scikit_learn == 0.22.2.post1
 
 # D:\OneDrive\Manipal\GitRepo and sagemaker course\Natural-Language-Processing-master\K8_Reviews.py: 7
 numpy == 1.16.5
+gunicorn==19.0.0
