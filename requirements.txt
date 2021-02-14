@@ -18,4 +18,4 @@ pandas == 0.25.1
 scikit_learn == 0.22.2.post1
 
 # D:\OneDrive\Manipal\GitRepo and sagemaker course\Natural-Language-Processing-master\K8_Reviews.py: 7
-~umpy == 1.16.5
+numpy == 1.16.5
